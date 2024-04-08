@@ -12,7 +12,6 @@ while True:
     # print(responseJson)
 
     print(responseJson[0]['trade_price'])
-    time.sleep(2)
-
+    time.sleep(200)
 
 
